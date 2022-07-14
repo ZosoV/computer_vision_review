@@ -19,6 +19,9 @@ This is a repository where I will record some articles that I will review for my
 - [ ]  [Pruning Deep Convolutional Neural Networks Architectures with Evolution Strategy](https://arxiv.org/pdf/1912.11527.pdf)
 - [ ]  [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/pdf/2109.10852.pdf)
 
+**Transfer Learning**
+
+- [ ] [What is being transferred in transfer learning?](https://arxiv.org/pdf/2008.11687.pdf)
 
 **Note**: Put the articles in a table
 
